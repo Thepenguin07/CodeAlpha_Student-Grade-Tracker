@@ -30,7 +30,7 @@ Both lists remain synchronized by index position ($snames[i] \leftrightarrow sgr
 Run the application:
 Bash
 java Student_Grade_Tracker
-📅 Daily Development Log
+## 📅 Daily Development Log
 Day 1: Foundation & Basic GUI Setup
 Initialized the main Student_Grade_Tracker class.
 Integrated basic Java Swing elements (JFrame, JPanel, JTextField, JButton).
