@@ -82,7 +82,7 @@ The app handles:
 
 ## 🙋 Author
 
-**Your Name**  
+**Shifa Parveen**  
 Java Programming Intern — CodeAlpha  
 [LinkedIn](www.linkedin.com/in/shifa-parveen-286251307) | [GitHub](github.com/Thepenguin07)
 
